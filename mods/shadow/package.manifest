@@ -1,0 +1,10 @@
+id=shadow
+version=1
+api=1
+requires=base@1
+extend=base/game/catalog|catalog.lua
+extend=base/game/object_data|object_data.lua
+asset=mods/shadow/fighter.txt|assets/fighter.txt
+asset=mods/shadow/shadow.bmp|assets/shadow.bmp
+asset=mods/shadow/portrait.bmp|assets/portrait.bmp
+asset=mods/shadow/voice.wav|assets/voice.wav
